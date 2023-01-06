@@ -1,6 +1,6 @@
-# Esse repositório refere a um projeto do curso de Java
-
 <div align="center">
+
+# Esse repositório refere a um projeto do curso de Java
 
 ## “Sistema para jogo de xadrez em Java”
 
