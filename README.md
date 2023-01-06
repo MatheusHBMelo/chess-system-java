@@ -1,4 +1,4 @@
-# Esse repositório é referente a um projeto do curso de Java
+# Esse repositório refere a um projeto do curso de Java
 
 <div align="center">
 
@@ -6,10 +6,7 @@
 
 </div>
 
-<p align="center">	
-   <a href="https://www.linkedin.com/in/matheushbmelo/">
-      <img alt="MatheusHenrique" src="https://img.shields.io/badge/-MatheusHBMelo-5?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
+<p align="center">
   <img alt="Languages" src="https://img.shields.io/github/languages/count/matheushbmelo/chess-system-java?color=brightgreen&label=Linguagens" />
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/matheushbmelo/chess-system-java?color=brightgreen&label=Ultimo commit" />
   <img alt="License" src="https://img.shields.io/github/license/matheushbmelo/chess-system-java?color=brightgreen&label=Licenca" />
@@ -68,8 +65,6 @@ Existe um padrão para a forma de escrita dos commits, com proposito de criar **
 
 ````
 [Tag] Título Relevante do Commit
-
-Corpo do commit: Explicar o que foi alterado, removido ou adicionado e possíveis detalhes de implementação.
 ````
 
 ### Exemplo de Tags
@@ -77,10 +72,7 @@ Corpo do commit: Explicar o que foi alterado, removido ou adicionado e possívei
 * **Feat:** Uma nova funcionalidade desenvolvida
 * **Fix:** Correção de algum bug no sistema
 * **Style:** Mudanças que não alteram o significado do código (white-space, formatação, ponto-e-virgula faltando...)
-* **Refact:** Alteração do código que não corrige ou adiciona nada.
-* **Docs:** Relacionado a documentações
-* **Git:** Relacionado ao versionamento
-* **Test:** Relacionado a testes
+* **Refact:** Alteração do código que não corrige ou adiciona nada
 
 ### License
 
