@@ -11,7 +11,7 @@
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/matheushbmelo/chess-system-java?color=brightgreen&label=Ultimo commit" />
   <img alt="License" src="https://img.shields.io/github/license/matheushbmelo/chess-system-java?color=brightgreen&label=Licenca" />
   <img alt="PullRequest" src="https://img.shields.io/github/issues-pr/matheushbmelo/chess-system-java?color=brightgreen&label=Pull%20Request" />
-  <img alt="Tag" src="https://img.shields.io/github/v/release/matheushbmelo/chess-system-java?color=brightgreen&include_prereleases&label=Vers%C3%A3o" />
+  <img alt="Tags" src="https://img.shields.io/github/v/release/matheushbmelo/chess-system-java?color=brightgreen&include_prereleases&label=Vers%C3%A3o" />
 </p>
 
 ### Informações sobre o código:
