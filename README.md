@@ -16,13 +16,15 @@
 
 ### Informações sobre o código:
 
-<div align="center"> <img src="https://raw.githubusercontent.com/MatheusHBMelo/chess-system-java/main/img/gif.gif" alt="Gif xadrez"></div>
-
 * Desenvolvido com auxílio do [IntelliJ Idea](https://www.jetbrains.com/pt-br/idea/)
 * Não possui recursos ligados a frameworks da linguagem
 * Não possui altos padrões de Design Patters
 * Utiliza alguns recursos visuais para melhor experiência na linha de comando
 * Tem proposito de validar os conhecimentos até então estudados sobre a linguagem
+
+### Como executar o código:
+
+<div align="center"> <img src="https://raw.githubusercontent.com/MatheusHBMelo/chess-system-java/main/img/gif.gif" alt="Gif xadrez"></div>
 
 ### Tecnologia usada:
 
